@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoprogramando&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso nos meus projetos
+### Tecnologias que uso nos meus projetos
 <div style="display: inline_block"></br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
